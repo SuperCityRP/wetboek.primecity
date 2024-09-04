@@ -15,8 +15,8 @@ Nijmegen heeft verschillende discord servers die zijn goed gekeurd door het stad
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Nijmegen RolePlay| Main discord server van Nijmegen | [Invite](https://discord.gg/tedeapolis) |
-|Nijmegen Support| Support discord server van Nijmegen | [Invite](https://discord.gg/uQ9jGA93yC) |
-|Nijmegen Cardealer| Cardealer discord server van Nijmegen | [Invite](https://discord.gg/UcCG2kn) |
-|Nijmegen Flightschool| Vliegschool discord server van Nijmegen | [Invite](https://discord.gg/JMrvTrZqcz) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Nijmegen | [Invite](https://discord.gg/KPTt4ce5nw) |
+|Nijmegen Roleplay| Main discord server van Nijmegen | [Invite](https://discord.gg/nijmegenrp) |
+|Nijmegen Support| Support discord server van Nijmegen | [Invite](https://discord.gg/eG9yTvaHYp) |
+|Nijmegen Cardealer| Cardealer discord server van Nijmegen | [Soon](soon) |
+|Nijmegen Overheid| Vliegschool discord server van Nijmegen | [Invite](https://discord.gg/mBTXEnh5ZC) |
+|Nijmegen Gangs| Gangs discord server van Nijmegen | [Invite](https://discord.gg/bz5VWVrc) |
