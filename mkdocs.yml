@@ -1,15 +1,63 @@
-site_name: Wave wet en regelgeving
+# Project information
+site_name: Nijmegen wet en regelgeving
+site_description: 'Wet en regelgeving van Nijmegen Roleplay'
+site_author: 'Nijmegen'
 
+# Copyright
+copyright: Copyright &copy; 2023 - 2024 Nijmegen
+
+# Congiguration
 theme:
   name: material
-  langueage: en
- 
-# Copyright
-copyright: Copyright © 2023 - 2024 Wave Testserver
-
+#   features:
+#     - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  favicon: img/logoNijmegen.png
+  logo: img/logoNijmegen.webp
+  custom_dir: docs/overrides
+  language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+    - content.action.edit
+    - content.action.view
+  extra:
+    analytics:
+      provider: google
+      property: UA-167800475-3
+      
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
-  - Keybinds: keybinds.md
-  - Voertuigenlijst: voertuigenlijst.md
-  - Wapens & Items: weapon-items.md
+  - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - Douanegebieden: douanegebieden.md
+  - NOTAM: notam.md
+  - Belastingen: belastingen.md
+  - Regelement voor de rechtspraak: rechtspraak.md
+  - Streamen op Eindhoven: streamen.md
+  - Kosten:
+    - Advocatuur: kosten/advocatuur.md
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
