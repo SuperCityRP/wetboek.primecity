@@ -8,6 +8,6 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 - Vliegdekschip
 - Ministerie van Defensie (Nabij postcode 6035)
 
-Hier onder staan deze zones weergegeven op de kaart van Nijmegen.
+Hier onder staan deze zones weergegeven op de kaart van Universe.
 
 ![No fly zones](img/restrictedAirspace.webp)

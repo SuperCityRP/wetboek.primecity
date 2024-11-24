@@ -1,10 +1,10 @@
 # Project information
-site_name: Nijmegen wet en regelgeving
-site_description: 'Wet en regelgeving van Nijmegen Roleplay'
-site_author: 'Nijmegen'
+site_name: Universe wet en regelgeving
+site_description: 'Wet en regelgeving van Universe Roleplay'
+site_author: 'Universe'
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 Nijmegen
+copyright: Copyright &copy; 2024 - 2025 SilentSources
 
 # Congiguration
 theme:
@@ -22,8 +22,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoNijmegen.png
-  logo: img/logoNijmegen.webp
+  favicon: img/logoUniverse.png
+  logo: img/logoUniverse.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -54,7 +54,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Nijmegen: streamen.md
+  - Streamen op Universe: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
